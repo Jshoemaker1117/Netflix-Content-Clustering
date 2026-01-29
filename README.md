@@ -1,6 +1,6 @@
 # Netflix Content Clustering Analysis
 
-## 📌 Project Overview
+## Project Overview
 
 This project applies **unsupervised machine learning (K-Means clustering)** to group Netflix movies and TV shows based on content characteristics such as release year, duration, and genre-related features.
 
@@ -8,7 +8,7 @@ The goal is to uncover hidden patterns in Netflix’s catalog that can support *
 
 ---
 
-## 🎯 Objective
+## Objective
 
 * Identify natural groupings within Netflix content
 * Determine the optimal number of clusters using data-driven evaluation
@@ -16,7 +16,7 @@ The goal is to uncover hidden patterns in Netflix’s catalog that can support *
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * Python
 * Pandas, NumPy
@@ -25,7 +25,7 @@ The goal is to uncover hidden patterns in Netflix’s catalog that can support *
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 * ~8,800 Netflix movies and TV shows
 * Features engineered from raw metadata:
@@ -36,7 +36,7 @@ The goal is to uncover hidden patterns in Netflix’s catalog that can support *
 
 ---
 
-## 🔎 Methodology
+## Methodology
 
 1. Data cleaning and preprocessing
 2. Feature engineering and scaling
@@ -46,7 +46,7 @@ The goal is to uncover hidden patterns in Netflix’s catalog that can support *
 
 ---
 
-## 📊 Results & Insights
+## Results & Insights
 
 * Identified **5 distinct content clusters**
 * Clear separation between short-form vs long-form content
@@ -55,7 +55,7 @@ The goal is to uncover hidden patterns in Netflix’s catalog that can support *
 
 ---
 
-## 📁 Outputs
+## Outputs
 
 * `netflix_clustered_final.csv`
 * `netflix_clustered_analysis.csv`
@@ -63,7 +63,7 @@ The goal is to uncover hidden patterns in Netflix’s catalog that can support *
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 * Add NLP features from descriptions
 * Compare with DBSCAN or Hierarchical Clustering
@@ -71,7 +71,7 @@ The goal is to uncover hidden patterns in Netflix’s catalog that can support *
 
 ---
 
-## ✅ Status
+## Status
 
 Project complete and portfolio-ready.
 
